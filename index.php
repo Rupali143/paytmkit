@@ -20,7 +20,8 @@
 					
 					<label>Order ID:</label>
                     <input type="text" class="form-control" id="ORDER_ID" name="ORDER_ID" size="20" maxlength="20" autocomplete="off" 
-
+ 
+ 
 tabindex="1" value="<?php echo  "ORDER" . rand(10000,99999999)?>">
                 </div>
                
